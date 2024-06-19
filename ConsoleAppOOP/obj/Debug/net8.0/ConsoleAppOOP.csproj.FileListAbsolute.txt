@@ -1,0 +1,15 @@
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/bin/Debug/net8.0/ConsoleAppOOP
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/bin/Debug/net8.0/ConsoleAppOOP.deps.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/bin/Debug/net8.0/ConsoleAppOOP.runtimeconfig.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/bin/Debug/net8.0/ConsoleAppOOP.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/bin/Debug/net8.0/ConsoleAppOOP.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/obj/Debug/net8.0/ConsoleAppOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/obj/Debug/net8.0/ConsoleAppOOP.AssemblyInfoInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/obj/Debug/net8.0/ConsoleAppOOP.AssemblyInfo.cs
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/obj/Debug/net8.0/ConsoleAppOOP.csproj.CoreCompileInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/obj/Debug/net8.0/ConsoleAppOOP.sourcelink.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/obj/Debug/net8.0/ConsoleAppOOP.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/obj/Debug/net8.0/refint/ConsoleAppOOP.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/obj/Debug/net8.0/ConsoleAppOOP.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/obj/Debug/net8.0/ConsoleAppOOP.genruntimeconfig.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppOOP/obj/Debug/net8.0/ref/ConsoleAppOOP.dll
