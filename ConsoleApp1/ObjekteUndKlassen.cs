@@ -6,7 +6,7 @@ public class ObjekteUndKlassen
     {
         Car ferarri = new Car("Ferarri F40", 450, 1995, 320);
         
-        ferarri.
+        
     }
 
 }

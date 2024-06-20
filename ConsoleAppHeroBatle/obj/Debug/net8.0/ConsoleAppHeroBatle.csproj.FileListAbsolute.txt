@@ -1,0 +1,15 @@
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/bin/Debug/net8.0/ConsoleAppHeroBatle
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/bin/Debug/net8.0/ConsoleAppHeroBatle.deps.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/bin/Debug/net8.0/ConsoleAppHeroBatle.runtimeconfig.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/bin/Debug/net8.0/ConsoleAppHeroBatle.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/bin/Debug/net8.0/ConsoleAppHeroBatle.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/obj/Debug/net8.0/ConsoleAppHeroBatle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/obj/Debug/net8.0/ConsoleAppHeroBatle.AssemblyInfoInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/obj/Debug/net8.0/ConsoleAppHeroBatle.AssemblyInfo.cs
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/obj/Debug/net8.0/ConsoleAppHeroBatle.csproj.CoreCompileInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/obj/Debug/net8.0/ConsoleAppHeroBatle.sourcelink.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/obj/Debug/net8.0/ConsoleAppHeroBatle.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/obj/Debug/net8.0/refint/ConsoleAppHeroBatle.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/obj/Debug/net8.0/ConsoleAppHeroBatle.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/obj/Debug/net8.0/ConsoleAppHeroBatle.genruntimeconfig.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/ConsoleAppHeroBatle/obj/Debug/net8.0/ref/ConsoleAppHeroBatle.dll
