@@ -1,0 +1,15 @@
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/bin/Debug/net8.0/VirtualMethoden
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/bin/Debug/net8.0/VirtualMethoden.deps.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/bin/Debug/net8.0/VirtualMethoden.runtimeconfig.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/bin/Debug/net8.0/VirtualMethoden.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/bin/Debug/net8.0/VirtualMethoden.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/obj/Debug/net8.0/VirtualMethoden.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/obj/Debug/net8.0/VirtualMethoden.AssemblyInfoInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/obj/Debug/net8.0/VirtualMethoden.AssemblyInfo.cs
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/obj/Debug/net8.0/VirtualMethoden.csproj.CoreCompileInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/obj/Debug/net8.0/VirtualMethoden.sourcelink.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/obj/Debug/net8.0/VirtualMethoden.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/obj/Debug/net8.0/refint/VirtualMethoden.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/obj/Debug/net8.0/VirtualMethoden.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/obj/Debug/net8.0/VirtualMethoden.genruntimeconfig.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/VirtualMethoden/obj/Debug/net8.0/ref/VirtualMethoden.dll

@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppOOP", "ConsoleApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppHeroBatle", "ConsoleAppHeroBatle\ConsoleAppHeroBatle.csproj", "{D43DB43F-F639-44AA-BCC7-130E44FC3AC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethoden", "VirtualMethoden\VirtualMethoden.csproj", "{CFB6FA7B-5B18-48F9-A3F7-95009F9B3B4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{D43DB43F-F639-44AA-BCC7-130E44FC3AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D43DB43F-F639-44AA-BCC7-130E44FC3AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D43DB43F-F639-44AA-BCC7-130E44FC3AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB6FA7B-5B18-48F9-A3F7-95009F9B3B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB6FA7B-5B18-48F9-A3F7-95009F9B3B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB6FA7B-5B18-48F9-A3F7-95009F9B3B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB6FA7B-5B18-48F9-A3F7-95009F9B3B4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
