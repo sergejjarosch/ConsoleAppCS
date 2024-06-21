@@ -1,0 +1,15 @@
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/bin/Debug/net8.0/DependencyInjection
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/bin/Debug/net8.0/DependencyInjection.deps.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/bin/Debug/net8.0/DependencyInjection.runtimeconfig.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/bin/Debug/net8.0/DependencyInjection.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/bin/Debug/net8.0/DependencyInjection.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/obj/Debug/net8.0/DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/obj/Debug/net8.0/DependencyInjection.AssemblyInfoInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/obj/Debug/net8.0/DependencyInjection.AssemblyInfo.cs
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/obj/Debug/net8.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/obj/Debug/net8.0/DependencyInjection.sourcelink.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/obj/Debug/net8.0/DependencyInjection.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/obj/Debug/net8.0/refint/DependencyInjection.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/obj/Debug/net8.0/DependencyInjection.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/obj/Debug/net8.0/DependencyInjection.genruntimeconfig.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/DependencyInjection/obj/Debug/net8.0/ref/DependencyInjection.dll
