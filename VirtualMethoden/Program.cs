@@ -1,25 +1,35 @@
-﻿namespace VirtualMethoden;
+﻿
+namespace VirtualMethoden;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Hund labrador = new Hund();
-        Katze ushi = new Katze();
-        labrador.MakeSound();
-        ushi.MakeSound();
+        Tiere[] verhalten =
+        {
+            new Hund(),
+            new Katze()
+        };
+
+        for (int i = 0; i < 10; i++)
+        {
+            foreach (var tier in verhalten)
+            {
+                tier.MakeSound();
+            }
+        }
+        
     }
 }
 
-class Tier
+class Tiere
 {
     public virtual void MakeSound()
     {
-        Console.WriteLine("Ein tierisches Gereusch+++++");
     }
 }
 
-class Hund : Tier
+class Hund : Tiere
 {
     public override void MakeSound()
     {
@@ -28,7 +38,7 @@ class Hund : Tier
     }
 }
 
-class Katze : Tier
+class Katze : Tiere
 {
     public override void MakeSound()
     {
