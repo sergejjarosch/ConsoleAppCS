@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethoden", "VirtualM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaces", "interfaces\interfaces.csproj", "{36128507-D937-446A-BF08-6B03AB708F82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{DFE588E0-B3D7-47B6-A18B-21768837AD22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{743AF5CC-B838-41F1-B0C8-77359B771E6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,9 +38,9 @@ Global
 		{36128507-D937-446A-BF08-6B03AB708F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36128507-D937-446A-BF08-6B03AB708F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36128507-D937-446A-BF08-6B03AB708F82}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DFE588E0-B3D7-47B6-A18B-21768837AD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DFE588E0-B3D7-47B6-A18B-21768837AD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DFE588E0-B3D7-47B6-A18B-21768837AD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DFE588E0-B3D7-47B6-A18B-21768837AD22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743AF5CC-B838-41F1-B0C8-77359B771E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743AF5CC-B838-41F1-B0C8-77359B771E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743AF5CC-B838-41F1-B0C8-77359B771E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743AF5CC-B838-41F1-B0C8-77359B771E6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
