@@ -102,7 +102,7 @@ Console.WriteLine(result);
 //countriesCapitals.Add("Deutschland", "Berlin");
 //countriesCapitals.Add("Österreich", "Wien");
 
-using System.Threading.Channels;
+
 /*
 Dictionary<string, string> countriesCapitals = new Dictionary<string, string>
 {
@@ -123,3 +123,29 @@ foreach (var item in countriesCapitals)
     Console.WriteLine($"Land - {item.Key} Hauptstadt - {item.Value}");
 }
 */
+
+//Tärnerer Operator
+
+/*
+int zahlA;
+int zahlB;
+
+Console.WriteLine("Zum vergleichen, gib zahl A ein:");
+zahlA = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine($"Zum vergleichen, gib zahl A ein:");
+zahlB = Convert.ToInt32(Console.ReadLine());
+
+
+string kleiner = $"Die {zahlA} ist kleiner als {zahlB}";
+string groesser = $"Die {zahlA} ist Größer als {zahlB}";
+
+string vergleich = zahlA < zahlB ? kleiner : groesser;
+ausgabe(vergleich);
+
+void ausgabe(string eingabe)
+{
+    Console.WriteLine(eingabe);
+}
+*/
+
