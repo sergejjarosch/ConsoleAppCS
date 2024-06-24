@@ -1,0 +1,15 @@
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/obj/Debug/net8.0/MSTutorialsCs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/obj/Debug/net8.0/MSTutorialsCs.AssemblyInfoInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/obj/Debug/net8.0/MSTutorialsCs.AssemblyInfo.cs
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/obj/Debug/net8.0/MSTutorialsCs.csproj.CoreCompileInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/obj/Debug/net8.0/MSTutorialsCs.sourcelink.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/bin/Debug/net8.0/MSTutorialsCs
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/bin/Debug/net8.0/MSTutorialsCs.deps.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/bin/Debug/net8.0/MSTutorialsCs.runtimeconfig.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/bin/Debug/net8.0/MSTutorialsCs.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/bin/Debug/net8.0/MSTutorialsCs.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/obj/Debug/net8.0/MSTutorialsCs.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/obj/Debug/net8.0/refint/MSTutorialsCs.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/obj/Debug/net8.0/MSTutorialsCs.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/obj/Debug/net8.0/MSTutorialsCs.genruntimeconfig.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTutorialsCs/obj/Debug/net8.0/ref/MSTutorialsCs.dll

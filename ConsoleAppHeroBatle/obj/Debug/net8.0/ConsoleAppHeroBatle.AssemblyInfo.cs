@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppHeroBatle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b326fb852a969be82c04b36842e8f0b70c0bb69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e744ac898b1025d381318a6476e07411d88abc61")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppHeroBatle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppHeroBatle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
