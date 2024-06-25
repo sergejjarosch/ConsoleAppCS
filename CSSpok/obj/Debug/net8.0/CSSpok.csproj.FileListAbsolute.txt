@@ -1,0 +1,15 @@
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/bin/Debug/net8.0/CSSpok
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/bin/Debug/net8.0/CSSpok.deps.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/bin/Debug/net8.0/CSSpok.runtimeconfig.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/bin/Debug/net8.0/CSSpok.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/bin/Debug/net8.0/CSSpok.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/obj/Debug/net8.0/CSSpok.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/obj/Debug/net8.0/CSSpok.AssemblyInfoInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/obj/Debug/net8.0/CSSpok.AssemblyInfo.cs
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/obj/Debug/net8.0/CSSpok.csproj.CoreCompileInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/obj/Debug/net8.0/CSSpok.sourcelink.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/obj/Debug/net8.0/CSSpok.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/obj/Debug/net8.0/refint/CSSpok.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/obj/Debug/net8.0/CSSpok.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/obj/Debug/net8.0/CSSpok.genruntimeconfig.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/CSSpok/obj/Debug/net8.0/ref/CSSpok.dll
