@@ -16,14 +16,14 @@ class Program
         car2.Make = "Geo";
         car2.Model = "Prism";
         car2.VIN = "B2";
-        */ 
+        */
         /*
         Book b1 = new Book();
         b1.Author = "Robert Tabor";
         b1.Title = "Microsoft .NET XML WEB Services";
         b1.ISBN = "0-000-00000-0";
         */
-        
+
         // ArayList are dynamically sized,
         //cool features sorting, remove items...
         /*
@@ -38,7 +38,7 @@ class Program
             Console.WriteLine(item.Make);
         }
         */
-        
+
         //List<T> 
         /*
         List<Car> myList = new List<Car>();
@@ -51,29 +51,33 @@ class Program
             Console.WriteLine(car.Model);
         }
         */
-        
+
         /*
         // Dictionary < tKey, TValue >
         Dictionary<string, Car> myDictionary = new Dictionary<string, Car>();
-        
+
         myDictionary.Add(car1.VIN, car1);
         myDictionary.Add(car2.VIN, car2);
 
         Console.WriteLine(myDictionary["B2"].Make);
         */
-        
+
         // Object initializer
         // No need for a Constructor
         // Car car1 = new Car() { Make = "BMW", Model = "750i", VIN = "C3" };
         // Car car2 = new Car() { Make = "Toyota", Model = "4Runner", VIN = "D4" };
-        
+
         // Collection initializer
 
         List<Car> myList = new List<Car>()
         {
-            new Car {Make = "Oldsmobile", Model = "Cutlas Suprime", VIN = "E5"},
-            new Car {Make = "Nissan", Model = "Altima", VIN = "F6"}
+            new Car { Make = "Oldsmobile", Model = "Cutlas Suprime", VIN = "E5" },
+            new Car { Make = "Nissan", Model = "Altima", VIN = "F6" }
         };
+
+        
+        
+    }
 }
 
 class Car

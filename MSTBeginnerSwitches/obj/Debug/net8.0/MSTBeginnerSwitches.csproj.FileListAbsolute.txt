@@ -1,0 +1,15 @@
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/bin/Debug/net8.0/MSTBeginnerSwitches
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/bin/Debug/net8.0/MSTBeginnerSwitches.deps.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/bin/Debug/net8.0/MSTBeginnerSwitches.runtimeconfig.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/bin/Debug/net8.0/MSTBeginnerSwitches.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/bin/Debug/net8.0/MSTBeginnerSwitches.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/obj/Debug/net8.0/MSTBeginnerSwitches.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/obj/Debug/net8.0/MSTBeginnerSwitches.AssemblyInfoInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/obj/Debug/net8.0/MSTBeginnerSwitches.AssemblyInfo.cs
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/obj/Debug/net8.0/MSTBeginnerSwitches.csproj.CoreCompileInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/obj/Debug/net8.0/MSTBeginnerSwitches.sourcelink.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/obj/Debug/net8.0/MSTBeginnerSwitches.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/obj/Debug/net8.0/refint/MSTBeginnerSwitches.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/obj/Debug/net8.0/MSTBeginnerSwitches.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/obj/Debug/net8.0/MSTBeginnerSwitches.genruntimeconfig.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerSwitches/obj/Debug/net8.0/ref/MSTBeginnerSwitches.dll
