@@ -1,0 +1,15 @@
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/bin/Debug/net8.0/MSTBeginnerWorkingWithCollections
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/bin/Debug/net8.0/MSTBeginnerWorkingWithCollections.deps.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/bin/Debug/net8.0/MSTBeginnerWorkingWithCollections.runtimeconfig.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/bin/Debug/net8.0/MSTBeginnerWorkingWithCollections.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/bin/Debug/net8.0/MSTBeginnerWorkingWithCollections.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/obj/Debug/net8.0/MSTBeginnerWorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/obj/Debug/net8.0/MSTBeginnerWorkingWithCollections.AssemblyInfoInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/obj/Debug/net8.0/MSTBeginnerWorkingWithCollections.AssemblyInfo.cs
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/obj/Debug/net8.0/MSTBeginnerWorkingWithCollections.csproj.CoreCompileInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/obj/Debug/net8.0/MSTBeginnerWorkingWithCollections.sourcelink.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/obj/Debug/net8.0/MSTBeginnerWorkingWithCollections.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/obj/Debug/net8.0/refint/MSTBeginnerWorkingWithCollections.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/obj/Debug/net8.0/MSTBeginnerWorkingWithCollections.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/obj/Debug/net8.0/MSTBeginnerWorkingWithCollections.genruntimeconfig.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerWorkingWithCollections/obj/Debug/net8.0/ref/MSTBeginnerWorkingWithCollections.dll
