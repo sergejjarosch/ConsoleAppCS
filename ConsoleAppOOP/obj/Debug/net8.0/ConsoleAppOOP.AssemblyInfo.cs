@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2207ad8c1552e8d565d507b3a3c6f0aeb60f265")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08dbe771b44e022e41b25e4622b07a39b8c4d3eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

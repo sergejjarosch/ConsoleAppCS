@@ -36,18 +36,26 @@ class Program
         */
         
         // LINQ method
-        var bmws = myCars.Where(c => c.Make == "BMW" && c.Year == 2000);
+        // var bmws = myCars.Where(c => c.Make == "BMW" && c.Year == 2000);
         // sortieren
-        var orderCars = myCars.OrderByDescending(c => c.StickerPrice);
-        var firstCar = myCars.First(c => c.Make == "Audi"); // Not iterable
-        var firstBMW = myCars.OrderByDescending(c => c.Year).First(p => p.Make == "BMW") ; // Not iterable
+        // var orderCars = myCars.OrderByDescending(c => c.StickerPrice);
+        // var firstCar = myCars.First(c => c.Make == "Audi"); // Not iterable
+        // var firstBMW = myCars.OrderByDescending(c => c.Year).First(p => p.Make == "BMW") ; // Not iterable
+        
+        
+
+        // myCars.ForEach(c => c.StickerPrice += 3000);
         
         // PrintMethod with LINQ 
         // Console.WriteLine(myCars.TrueForAll(p => p.Year > 1999));
-        myCars.ForEach(c => Console.WriteLine($"{c.Make} {c.Model}"));
+        // myCars.ForEach(c => Console.WriteLine($"{c.Make} {c.Model} {c.StickerPrice}"));
         
         
         // show Method -
+        Console.WriteLine(myCars.GetType());
+        var orderCars = myCars.OrderByDescending(p => p.Year);
+        Console.WriteLine(orderCars.GetType());
+        
         // Console.WriteLine($"{firstCar.Make} {firstCar.Model}");
         // Console.WriteLine($"{firstBMW.Make} {firstBMW.Model}");
         // 

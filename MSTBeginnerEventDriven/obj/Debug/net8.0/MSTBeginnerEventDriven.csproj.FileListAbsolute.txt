@@ -1,0 +1,15 @@
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/bin/Debug/net8.0/MSTBeginnerEventDriven
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/bin/Debug/net8.0/MSTBeginnerEventDriven.deps.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/bin/Debug/net8.0/MSTBeginnerEventDriven.runtimeconfig.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/bin/Debug/net8.0/MSTBeginnerEventDriven.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/bin/Debug/net8.0/MSTBeginnerEventDriven.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/obj/Debug/net8.0/MSTBeginnerEventDriven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/obj/Debug/net8.0/MSTBeginnerEventDriven.AssemblyInfoInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/obj/Debug/net8.0/MSTBeginnerEventDriven.AssemblyInfo.cs
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/obj/Debug/net8.0/MSTBeginnerEventDriven.csproj.CoreCompileInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/obj/Debug/net8.0/MSTBeginnerEventDriven.sourcelink.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/obj/Debug/net8.0/MSTBeginnerEventDriven.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/obj/Debug/net8.0/refint/MSTBeginnerEventDriven.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/obj/Debug/net8.0/MSTBeginnerEventDriven.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/obj/Debug/net8.0/MSTBeginnerEventDriven.genruntimeconfig.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerEventDriven/obj/Debug/net8.0/ref/MSTBeginnerEventDriven.dll
