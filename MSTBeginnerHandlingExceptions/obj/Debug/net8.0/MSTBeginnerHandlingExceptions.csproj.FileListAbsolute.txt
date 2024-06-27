@@ -1,0 +1,15 @@
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/bin/Debug/net8.0/MSTBeginnerHandlingExceptions
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/bin/Debug/net8.0/MSTBeginnerHandlingExceptions.deps.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/bin/Debug/net8.0/MSTBeginnerHandlingExceptions.runtimeconfig.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/bin/Debug/net8.0/MSTBeginnerHandlingExceptions.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/bin/Debug/net8.0/MSTBeginnerHandlingExceptions.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/obj/Debug/net8.0/MSTBeginnerHandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/obj/Debug/net8.0/MSTBeginnerHandlingExceptions.AssemblyInfoInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/obj/Debug/net8.0/MSTBeginnerHandlingExceptions.AssemblyInfo.cs
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/obj/Debug/net8.0/MSTBeginnerHandlingExceptions.csproj.CoreCompileInputs.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/obj/Debug/net8.0/MSTBeginnerHandlingExceptions.sourcelink.json
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/obj/Debug/net8.0/MSTBeginnerHandlingExceptions.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/obj/Debug/net8.0/refint/MSTBeginnerHandlingExceptions.dll
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/obj/Debug/net8.0/MSTBeginnerHandlingExceptions.pdb
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/obj/Debug/net8.0/MSTBeginnerHandlingExceptions.genruntimeconfig.cache
+/Users/sergejjarosch/Desktop/C#/projects/ConsoleApp1/MSTBeginnerHandlingExceptions/obj/Debug/net8.0/ref/MSTBeginnerHandlingExceptions.dll
